@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3d9b1eb6-20d1-465d-8fbf-fefa2359f42f
+  title: QuantEcon Lecture Improvements
+  # description:
+  # keywords: []
+  authors:
+    - Rowan Cockett
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    # favicon: favicon.ico
+    # logo: site_logo.png
+    logo_text: QuantEcon Improvements
+  domains:
+    - rowanc1-quantecon.curve.space
