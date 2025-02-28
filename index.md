@@ -17,6 +17,9 @@ The QuantEcon Theme
 The Deployed Theme Assets
 : https://github.com/curvenote-themes/quantecon
 
+Update scripts for other projects
+: https://github.com/rowanc1/quantecon-upgrade
+
 ## Video Walkthroughs
 
 :::{iframe} https://www.loom.com/embed/dd1b5cd7d75a4e82b78c83e6093a204d?sid=9020e03b-a7ae-49d4-9cae-debda32161cd
